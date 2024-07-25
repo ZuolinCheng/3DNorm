@@ -18,7 +18,7 @@ cDNA-length factor:
 
 The raw count of single-cell RNA-seq (scRNA-seq) data impacted by artificial factors, including the cell factor (such as cell’s library size that will directly impact the total counts of the cell) and the gene factor (such as GC content of the gene’s sequence that may impact the efficiency of PCR amplification). 
 
-Besides, we found that, for full-length sequencing techniques, such as Smart-seq2, the cDNA-length factor also has a non-negligible impact on the final raw counts. 
+Besides, we found that, for full-length sequencing techniques (e.g., Smart-seq2), the "effective cDNA-length" factor also has a non-negligible impact on the final raw counts. 
 
 
 <p align="center">
